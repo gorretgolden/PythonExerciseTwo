@@ -1,6 +1,6 @@
 #NABATANZI GORRET SEP23/BCS/3472U/F
 
-#PART ONE
+#Question 1
 #Write a program that converts celicius to faranheit.The program should ask the user to enter the
 # temperature in celicus and then display the temperature converted to Farenheit
 
@@ -15,7 +15,7 @@ print(celicius + " Degrees Celicius is equal to " + str(faranheit) + " Degrees F
 
 
 #NABATANZI GORRET SEP23/BCS/3472U/F
-#PART TWO
+#Question 2
 #A car's miles per gallaton can be calculated with the following formula. Write a program that asks the user
 #for the number of miles driven and gallons used. It should calculate the car's miles-per-gallons-used and display the 
 #result
@@ -29,5 +29,8 @@ MPG =  float(milesDriven / gallonsOfGasUsed)
 milesPerGallons = MPG
 #displaying the car's miles per gallons used
 print(f"The car has used {milesPerGallons} miles per gallons")
+
+
+
 
 
